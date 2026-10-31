@@ -12,34 +12,34 @@
 
 <br/>
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou **Analista de Sistemas** na Prefeitura da Cidade do Recife, atuando com suporte N2, sustentação de aplicações, troubleshooting e implantação de sistemas. No dia a dia, uso código para resolver problemas de operação: automatizo processos e construo integrações com **n8n**, **Python** e **APIs REST**, reduzindo trabalho manual e deixando os fluxos mais confiáveis.
 
 Tenho formação em **Análise e Desenvolvimento de Software** e experiência como **desenvolvedor full stack**, o que me permite ir do diagnóstico de um incidente até a entrega da solução — seja um script, uma automação ou uma funcionalidade completa.
 
-- 🔧 Diagnóstico de incidentes e análise de causa raiz (RCA)
-- ⚙️ Automação de processos e integrações entre sistemas
-- 📄 Documentação técnica e mapeamento de fluxos operacionais
-- 👥 Experiência liderando e apoiando equipes de suporte
-- 🎓 Monitor de Algoritmos e Lógica de Programação (Java e Python) para mais de 100 alunos
+-  Diagnóstico de incidentes e análise de causa raiz (RCA)
+-  Automação de processos e integrações entre sistemas
+-  Documentação técnica e mapeamento de fluxos operacionais
+-  Experiência liderando e apoiando equipes de suporte
+-  Monitor de Algoritmos e Lógica de Programação (Java e Python) para mais de 100 alunos
 
 <br/>
 
-## 💼 O que eu faço
+##  O que eu faço
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🛠️ Suporte & Sustentação</h3>
+      <h3> Suporte & Sustentação</h3>
       Suporte N2, troubleshooting, implantação de sistemas, GLPI, atendimento e orientação a usuários, melhoria contínua de processos.
     </td>
     <td align="center" width="33%">
-      <h3>🔁 Automação & Integrações</h3>
+      <h3> Automação & Integrações</h3>
       Fluxos no n8n, scripts em Python, integrações via APIs REST, consultas SQL e eliminação de tarefas manuais repetitivas.
     </td>
     <td align="center" width="33%">
-      <h3>💻 Desenvolvimento Full Stack</h3>
+      <h3> Desenvolvimento Full Stack</h3>
       Aplicações web com PHP/Laravel, Java, Python, HTML, CSS e JavaScript, com banco de dados MySQL e versionamento em Git.
     </td>
   </tr>
@@ -47,7 +47,7 @@ Tenho formação em **Análise e Desenvolvimento de Software** e experiência co
 
 <br/>
 
-## 🧰 Tecnologias
+## Tecnologias
 
 <h4>Linguagens</h4>
 <p>
@@ -94,17 +94,17 @@ Tenho formação em **Análise e Desenvolvimento de Software** e experiência co
 
 <br/>
 
-## 🎓 Formação & Certificações
+##  Formação & Certificações
 
 | | |
 |---|---|
-| 🎓 **Tecnólogo em Análise e Desenvolvimento de Software** | Universidade Tiradentes (Unit) · 2022 – 2024 |
-| ☁️ **AWS re/Start Graduate** | Amazon Web Services · 2024 |
-| 🚀 **FAST — Formação Acelerada em Soluções de Techdesign** | CESAR School · Trilha de Engenharia de Plataforma |
+|  **Tecnólogo em Análise e Desenvolvimento de Software** | Universidade Tiradentes (Unit) · 2022 – 2024 |
+|  **AWS re/Start Graduate** | Amazon Web Services · 2024 |
+|  **FAST — Formação Acelerada em Soluções de Techdesign** | CESAR School · Trilha de Engenharia de Plataforma |
 
 <br/>
 
-## 📊 Atividade no GitHub
+##  Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=leonardosjr&theme=tokyonight&hide_border=true&background=0D1117&ring=6636e0&fire=6636e0&currStreakLabel=6636e0" alt="GitHub Streak"/>
@@ -112,7 +112,7 @@ Tenho formação em **Análise e Desenvolvimento de Software** e experiência co
 
 <br/>
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-jose-8a8797214/"><img src="https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
